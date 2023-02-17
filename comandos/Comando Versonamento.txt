@@ -2,7 +2,10 @@ git clone + endereço do repo github (faz uma cópia para pasta local)
 
 git status (Mostra as branch's pendentes de commit)
 
-git add . (enviar a pasta/arquivo para o controle de versão, entende que arquivo deve ser enviado para o controle de versão)
+git add . (enviar a pasta/arquivo para o controle de versão local, entende que arquivo deve ser enviado para o controle de versão local)
 
+git commit -m "Comando para realizar o versionamento git/gitHub" (Prepara o arquivo/fecha a branch para subir no github)
+
+git push origin main (Envia a branch para o github)
 
 
