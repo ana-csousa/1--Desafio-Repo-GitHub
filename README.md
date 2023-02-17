@@ -1,5 +1,5 @@
-# Desafio de Projeto sobre o Git/GitHub - Bootcamp Banco Pan
+# Projeto versonamento Git/GitHub
 
-Nesse repositorio será inserido o 1º desafio de projeto sobre versonamento git/github
+Nesse repositorio será inserido o 1º desafio de projeto sobre versonamento git/github - Bootcamp Banco Pan
 
  
